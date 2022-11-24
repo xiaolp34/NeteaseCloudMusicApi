@@ -1,7 +1,7 @@
 # 网易云音乐 API
 
 ## 自己搭建的网易云API
-<a href="https://www.npmjs.com/package/NeteaseCloudMusicApi">自建API</a>
+<a href="https://chatter-wooden-drip.glitch.me/">自建API</a>
 
 
 
